@@ -1,2 +1,3 @@
 # demo_01
-This is my practise repository
+This is my practise repository.
+Author - Atharva Bhise.
